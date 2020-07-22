@@ -1,0 +1,19 @@
+
+================================================================
+BLUCRAFT: UMA FERRAMENTA PARA A CRIAÇÃO DE JOGOS DE RPG DIGITAIS
+================================================================
+
+Abertura e execução
+----------------------
+
+Para abertura dentro do Unity, é necessário acesso a internet para o download dos packages instalados.
+A cena inicial para fluxo correto é a MenuScene. Abertura através de outras cenas ocasionará em erros.
+
+Para execução dos binários, não existem passos além da execução do tcc.exe.
+
+---
+
+Arquivos de jogo
+----------------
+
+Os arquivos de jogo criados pela ferramenta estão salvos dentro da pasta "save" dentro de "tcc_Data" (binário) ou "Assets" (Unity).
